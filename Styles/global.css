@@ -3,3 +3,32 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+
+
+:root {
+  
+  /* Color */
+
+  /* Product */
+  --brand-color-light: #60A5FA;
+  --brand-color-dark: #1D4ED8;
+
+  /* Base */
+  --bg-color: #0F172A;
+  --stroke-color: #1E293B;
+
+  /* Text color */
+  --text-color-primary: #F1F5F1;
+  --text-color-secondary: #CBD5E1;
+
+  /* Font sizes */
+  --h1-font-family: "Archivo Black", sans-serif;
+  --font-family: "Archivo", sans-serif;
+
+  --heading1: bolder 24px/1.35 var(--font-family);
+  --heading2: bolder 16px/1.4 var(--font-family);
+  --heading3: bolder 14px/1.4 var(--font-family);
+  --span: semibold 14px/1.45 var(--font-family);
+  --paragraph: 14px/1.6 var(--font-family);
+}
